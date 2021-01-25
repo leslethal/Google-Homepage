@@ -1,0 +1,16 @@
+body {
+    background: black;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 8px;
+    text-align: center;
+    float: center; 
+}
+.google{
+    Display: block;
+    margin-left: auto;
+    margin-top: auto;
+    width: 50%;
+}
